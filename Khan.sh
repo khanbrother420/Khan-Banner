@@ -625,7 +625,7 @@ else
 
         clear
 
-        bash TXB.sh
+        bash Khan.sh
 
 
 
