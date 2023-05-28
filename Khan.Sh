@@ -396,7 +396,7 @@ echo '
 	▄██▄▄▄█▀  ▀█▄▄▀█▀ ▄██▄ ██▄ ▄██▄ ██▄  ▀█▄▄▄▀ ▄██▄ ' | lolcat
 echo ""
 
-echo -e '		\e[92m✩░▒▓▆▅▃▂▁ \e[38;5;11mCode by Khan \e[92m▁▂▃▅▆▓▒░✩'
+echo -e '		\e[92m✩░▒▓▆▅▃▂▁ \e[38;5;11mcode by rakib \e[92m▁▂▃▅▆▓▒░✩'
 
 echo ""
 echo ""
